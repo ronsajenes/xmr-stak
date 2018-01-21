@@ -1,3 +1,4 @@
+###### KUBRADOR
 ###### fireice-uk's and psychocrypt's
 # XMR-Stak - Monero/Aeon All-in-One Mining Software
 
